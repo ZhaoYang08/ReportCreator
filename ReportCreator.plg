@@ -1,0 +1,241 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ReportCreator - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP9BDD.tmp" with contents
+[
+/nologo /MDd /W4 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/ReportCreator.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\DiagramClipboardHandler.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\DiagramEditor.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\DiagramEntity.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\DiagramEntityContainer.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\DiagramLine.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\DiagramMenu.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\DiagramPropertyDlg.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\GroupFactory.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\Tokenizer.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\DiagramEditor\UndoItem.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ColorStatic.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\Column.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ColumnContainer.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ExListBox.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\PicturePreview.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportControlFactory.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEditor.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntityBox.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntityEllipse.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntityField.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntityGrid.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntityLabel.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntityLine.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntityPicture.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEntitySettings.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportFieldProperties.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportPictureProperties.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\StringHelpers.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\UnitConversion.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ChildFrm.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\CornerBox.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\EditorSettingsDialog.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\HorzRuler.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\MainFrm.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportCreator.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportCreatorDoc.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportCreatorView.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\RulerMeasurementsDialog.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\StdGrfx.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\VertRuler.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP9BDD.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP9BDE.tmp" with contents
+[
+/nologo /MDd /W4 /Gm /GX /ZI /Od /I ".." /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/ReportCreator.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ColumnDialog.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportBoxProperties.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportEllipseProperties.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportGridProperties.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportLabelProperties.cpp"
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\ReportEditor\ReportLineProperties.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP9BDE.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP9BEE.tmp" with contents
+[
+/nologo /MDd /W4 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/ReportCreator.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Downloads\Compressed\reportcreator_src\ReportCreator\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP9BEE.tmp" 
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+DiagramClipboardHandler.cpp
+DiagramEditor.cpp
+DiagramEntity.cpp
+DiagramEntityContainer.cpp
+DiagramLine.cpp
+DiagramMenu.cpp
+DiagramPropertyDlg.cpp
+GroupFactory.cpp
+Tokenizer.cpp
+UndoItem.cpp
+ColorStatic.cpp
+Column.cpp
+ColumnContainer.cpp
+ExListBox.cpp
+PicturePreview.cpp
+ReportControlFactory.cpp
+ReportEditor.cpp
+ReportEntityBox.cpp
+ReportEntityEllipse.cpp
+ReportEntityField.cpp
+Generating Code...
+Compiling...
+ReportEntityGrid.cpp
+ReportEntityLabel.cpp
+ReportEntityLine.cpp
+ReportEntityPicture.cpp
+ReportEntitySettings.cpp
+ReportFieldProperties.cpp
+ReportPictureProperties.cpp
+StringHelpers.cpp
+UnitConversion.cpp
+ChildFrm.cpp
+CornerBox.cpp
+EditorSettingsDialog.cpp
+HorzRuler.cpp
+MainFrm.cpp
+ReportCreator.cpp
+ReportCreatorDoc.cpp
+ReportCreatorView.cpp
+RulerMeasurementsDialog.cpp
+StdGrfx.cpp
+VertRuler.cpp
+Generating Code...
+Compiling...
+ColumnDialog.cpp
+ReportBoxProperties.cpp
+ReportEllipseProperties.cpp
+ReportGridProperties.cpp
+ReportLabelProperties.cpp
+ReportLineProperties.cpp
+Generating Code...
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA314.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ReportCreator.pdb" /debug /machine:I386 /out:"Debug/ReportCreator.exe" /pdbtype:sept 
+.\Debug\DiagramClipboardHandler.obj
+.\Debug\DiagramEditor.obj
+.\Debug\DiagramEntity.obj
+.\Debug\DiagramEntityContainer.obj
+.\Debug\DiagramLine.obj
+.\Debug\DiagramMenu.obj
+.\Debug\DiagramPropertyDlg.obj
+.\Debug\GroupFactory.obj
+.\Debug\Tokenizer.obj
+.\Debug\UndoItem.obj
+.\Debug\ColorStatic.obj
+.\Debug\Column.obj
+.\Debug\ColumnContainer.obj
+.\Debug\ColumnDialog.obj
+.\Debug\ExListBox.obj
+.\Debug\PicturePreview.obj
+.\Debug\ReportBoxProperties.obj
+.\Debug\ReportControlFactory.obj
+.\Debug\ReportEditor.obj
+.\Debug\ReportEllipseProperties.obj
+.\Debug\ReportEntityBox.obj
+.\Debug\ReportEntityEllipse.obj
+.\Debug\ReportEntityField.obj
+.\Debug\ReportEntityGrid.obj
+.\Debug\ReportEntityLabel.obj
+.\Debug\ReportEntityLine.obj
+.\Debug\ReportEntityPicture.obj
+.\Debug\ReportEntitySettings.obj
+.\Debug\ReportFieldProperties.obj
+.\Debug\ReportGridProperties.obj
+.\Debug\ReportLabelProperties.obj
+.\Debug\ReportLineProperties.obj
+.\Debug\ReportPictureProperties.obj
+.\Debug\StringHelpers.obj
+.\Debug\UnitConversion.obj
+.\Debug\ChildFrm.obj
+.\Debug\CornerBox.obj
+.\Debug\EditorSettingsDialog.obj
+.\Debug\HorzRuler.obj
+.\Debug\MainFrm.obj
+.\Debug\ReportCreator.obj
+.\Debug\ReportCreatorDoc.obj
+.\Debug\ReportCreatorView.obj
+.\Debug\RulerMeasurementsDialog.obj
+.\Debug\StdAfx.obj
+.\Debug\StdGrfx.obj
+.\Debug\VertRuler.obj
+.\Debug\ReportCreator.res
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA314.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA45D.tmp" with contents
+[
+/nologo /o"Debug/ReportCreator.bsc" 
+.\Debug\StdAfx.sbr
+.\Debug\DiagramClipboardHandler.sbr
+.\Debug\DiagramEditor.sbr
+.\Debug\DiagramEntity.sbr
+.\Debug\DiagramEntityContainer.sbr
+.\Debug\DiagramLine.sbr
+.\Debug\DiagramMenu.sbr
+.\Debug\DiagramPropertyDlg.sbr
+.\Debug\GroupFactory.sbr
+.\Debug\Tokenizer.sbr
+.\Debug\UndoItem.sbr
+.\Debug\ColorStatic.sbr
+.\Debug\Column.sbr
+.\Debug\ColumnContainer.sbr
+.\Debug\ColumnDialog.sbr
+.\Debug\ExListBox.sbr
+.\Debug\PicturePreview.sbr
+.\Debug\ReportBoxProperties.sbr
+.\Debug\ReportControlFactory.sbr
+.\Debug\ReportEditor.sbr
+.\Debug\ReportEllipseProperties.sbr
+.\Debug\ReportEntityBox.sbr
+.\Debug\ReportEntityEllipse.sbr
+.\Debug\ReportEntityField.sbr
+.\Debug\ReportEntityGrid.sbr
+.\Debug\ReportEntityLabel.sbr
+.\Debug\ReportEntityLine.sbr
+.\Debug\ReportEntityPicture.sbr
+.\Debug\ReportEntitySettings.sbr
+.\Debug\ReportFieldProperties.sbr
+.\Debug\ReportGridProperties.sbr
+.\Debug\ReportLabelProperties.sbr
+.\Debug\ReportLineProperties.sbr
+.\Debug\ReportPictureProperties.sbr
+.\Debug\StringHelpers.sbr
+.\Debug\UnitConversion.sbr
+.\Debug\ChildFrm.sbr
+.\Debug\CornerBox.sbr
+.\Debug\EditorSettingsDialog.sbr
+.\Debug\HorzRuler.sbr
+.\Debug\MainFrm.sbr
+.\Debug\ReportCreator.sbr
+.\Debug\ReportCreatorDoc.sbr
+.\Debug\ReportCreatorView.sbr
+.\Debug\RulerMeasurementsDialog.sbr
+.\Debug\StdGrfx.sbr
+.\Debug\VertRuler.sbr]
+Creating command line "bscmake.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA45D.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+ReportCreator.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

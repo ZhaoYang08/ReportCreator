@@ -1,0 +1,122 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Developer Studio generated include file.
+// Used by ReportCreator.rc
+//
+#define IDD_ABOUTBOX                    100
+#define IDR_MAINFRAME                   128
+#define IDR_REPORTTYPE                  129
+#define IDD_REPORT_DIALOG_LINE_PROPERTIES 131
+#define IDD_REPORT_DIALOG_BOX_PROPERTIES 132
+#define IDD_REPORT_DIALOG_LABEL_PROPERTIES 133
+#define IDD_DIALOG_RULER_MEASUREMENTS   134
+#define IDD_REPORT_DIALOG_PICTURE_PROPERTIES 136
+#define IDD_REPORT_DIALOG_GRID_PROPERTIES 137
+#define IDD_DIALOG_COLUMN               138
+#define IDD_DIALOG_SETTINGS             150
+#define IDD_REPORT_DIALOG_ELLIPSE_PROPERTIES 156
+#define IDD_REPORT_DIALOG_FIELD_PROPERTIES 157
+#define IDC_EDIT_WIDTH                  1000
+#define IDC_EDIT_HEIGTH                 1001
+#define IDC_EDIT_ZOOM_LEVEL             1002
+#define IDC_EDIT_GRID_SIZE              1003
+#define IDC_CHECK_GRID_VISIBLE          1004
+#define IDC_CHECK_SNAP                  1005
+#define IDC_BUTTON_COLOR_BG             1006
+#define IDC_BUTTON_COLOR_GRID           1007
+#define IDC_EDIT_LEFT                   1008
+#define IDC_BUTTON_DEFAULT              1009
+#define IDC_EDIT_RIGHT                  1010
+#define IDC_BUTTON_COLOR                1011
+#define IDC_EDIT_TOP                    1012
+#define IDC_EDIT_BOTTOM                 1014
+#define IDC_CHECK_BORDER                1014
+#define IDC_CHECK_FILL                  1015
+#define IDC_CHECK_COLUMNS               1015
+#define IDC_BUTTON_COLOR_MARGIN         1016
+#define IDC_BUTTON_FILL_COLOR           1016
+#define IDC_CHECK_ROWS                  1016
+#define IDC_RADIO_MARGIN                1017
+#define IDC_EDIT_BORDER_THICKNESS       1017
+#define IDC_RADIO_PAPER                 1018
+#define IDC_COMBO_BORDER_STYLE          1018
+#define IDC_RADIO_NONE                  1019
+#define IDC_STATIC_FILL_COLOR           1019
+#define IDC_EDIT_COLUMN_THICKNESS       1019
+#define IDC_COMBO_MEASUREMENTS          1020
+#define IDC_STATIC_BORDER_COLOR         1020
+#define IDC_STATIC_BG                   1021
+#define IDC_BUTTON_BORDER_COLOR         1021
+#define IDC_STATIC_GRID                 1022
+#define IDC_EDIT_THICKNESS              1022
+#define IDC_COMBO_COLUMN_STYLE          1022
+#define IDC_STATIC_MARGIN               1023
+#define IDC_COMBO_STYLE                 1023
+#define IDC_BUTTON_COLUMN_COLOR         1023
+#define IDC_CHECK_SHOW_MARGINS          1024
+#define IDC_STATIC_COLOR                1024
+#define IDC_STATIC_COLUMN_COLOR         1024
+#define IDC_EDIT_ZOOM_STEP              1025
+#define IDC_EDIT_CONTENTS               1025
+#define IDC_EDIT_ROW_THICKNESS          1025
+#define IDC_BUTTON_FONT                 1026
+#define IDC_COMBO_ROW_STYLE             1026
+#define IDC_RADIO_LEFT                  1027
+#define IDC_BUTTON_ROW_COLOR            1027
+#define IDC_RADIO_CENTER                1028
+#define IDC_STATIC_ROW_COLOR            1028
+#define IDC_RADIO_RIGHT                 1029
+#define IDC_COMBO_UNIT_MEASUREMENTS     1029
+#define IDC_EDIT_FILENAME               1031
+#define IDC_BUTTON_BROWSE               1032
+#define IDC_STATIC_PREVIEW              1033
+#define IDC_LIST_COLUMNS                1034
+#define IDC_BUTTON_ADD                  1035
+#define IDC_BUTTON_UP                   1036
+#define IDC_BUTTON_DOWN                 1037
+#define IDC_BUTTON_DELETE               1038
+#define IDC_EDIT_NAME                   1041
+#define IDC_NAME                        1044
+#define IDC_EDIT_LPI                    1046
+#define ID_BUTTON_SETTINGS              32771
+#define ID_BUTTON_SNAP                  32772
+#define ID_BUTTON_GRID                  32774
+#define ID_BUTTON_MARGIN                32775
+#define ID_BUTTON_ADD_LABEL             32776
+#define ID_BUTTON32777                  32777
+#define ID_BUTTON_ADD_ELLIPSE           32778
+#define ID_BUTTON_ADD_LINE              32780
+#define ID_BUTTON_ADD_BOX               32781
+#define ID_BUTTON_ADD_FIELD             32783
+#define ID_ZOOM_IN                      32784
+#define ID_ZOOM_OUT                     32785
+#define ID_BUTTON_ALIGN_LEFT            32786
+#define ID_BUTTON_ALIGN_RIGHT           32787
+#define ID_BUTTON_ALIGN_TOP             32789
+#define ID_BUTTON_ALIGN_BOTTOM          32790
+#define ID_BUTTON_SAME_SIZE             32791
+#define ID_BUTTON_ZOOM_TO_FIT           32792
+#define ID_BUTTON_PROPERTIES            32793
+#define ID_BUTTON_ADD_GRID              32794
+#define ID_BUTTON_ADD_PICTURE           32795
+#define ID_DELETE                       32796
+#define ID_INSERT                       32797
+#define ID_GROUP                        32798
+#define ID_UNGROUP                      32799
+#define IDS_REPORT_BAD_FILE             61446
+#define IDS_REPORT_LINE_STYLE_1         61447
+#define IDS_REPORT_LINE_STYLE_2         61448
+#define IDS_REPORT_LINE_STYLE_3         61449
+#define IDS_REPORT_ONLY_ONE_ZERO_COLUMN 61450
+#define IDS_STATUS_TEMPLATE             61451
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_3D_CONTROLS                     1
+#define _APS_NEXT_RESOURCE_VALUE        141
+#define _APS_NEXT_COMMAND_VALUE         32802
+#define _APS_NEXT_CONTROL_VALUE         1049
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
